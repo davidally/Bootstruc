@@ -1,5 +1,4 @@
-mkdir -p src/{assets/{images,videos},scripts/vendors,styles/{0-plugins,1-helpers,2-base,3-layout,4-components,5-pages}} && cd src && touch index.html index.js webpack.config.js .gitignore && echo
-"const path = require('path');
+mkdir -p src/{assets/{images,videos},scripts/vendors,styles/{0-plugins,1-helpers,2-base,3-layout,4-components,5-pages}} && cd src && touch index.html index.js webpack.config.js .gitignore && echo "const path = require('path');
 const webpack = require('webpack');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
