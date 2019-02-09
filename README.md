@@ -18,7 +18,7 @@ In the command line:
 ./yourscript.sh
 ```
 
-If you don't want to use the command line you can simply double click to execute the file, this will build the *src* folder in the current directory. 
+If you don't want to use the command line you can simply double click to execute the file, this will build the *`src`* folder in the current directory. 
 
 ## Preview of structure for styling
 Each folder has its own *"main"* **.scss** folder to import into the main file. This helps reduce cluttering with dozens of imports. 
