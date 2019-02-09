@@ -21,7 +21,7 @@ If you don't want to use the command line you can simply double click to execute
 
 ## Preview of structure for styling
 Each folder has its own *"main"* **.scss** folder to import into the `main.scss`. This helps reduce cluttering with dozens of imports. 
-```
+```sh
 styles/
 |
 |– 0-plugins/
