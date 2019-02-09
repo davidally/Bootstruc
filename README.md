@@ -9,7 +9,7 @@ Read more about the [7-1 Pattern](https://sass-guidelin.es/#the-7-1-pattern) her
 &nbsp;
 ## Use
 In the command line:
-```
+```sh
 # Execute script
 /path/to/yourscript.sh
 
