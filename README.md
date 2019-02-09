@@ -1,13 +1,13 @@
-#Bootstruc
+# Bootstruc
 ----------
-##Frontend File Architecture
+## Frontend File Architecture
 
 Generate the front-end folder structure for your project with this simple script. This includes a variant of the 7-1 style folder layout for Sass files as well as assets and scripts. Automatically generated are a webpack config file as well as some plugin files. Remove or replace certain files as you see fit. 
 
 Read more about the [7-1 Pattern](https://sass-guidelin.es/#the-7-1-pattern) here.
 
 
-###Use
+### Use
 ----------
 In the command line:
 ```
@@ -20,7 +20,7 @@ In the command line:
 
 If you don't want to use the command line you can simply double click to execute the file, this will build the *src* folder in the current directory. 
 
-##Preview of structure for styling
+## Preview of structure for styling
 ----------
 Each folder has its own *"main"* **.scss** folder to import into the main file. This helps reduce cluttering with dozens of imports. 
 ```
