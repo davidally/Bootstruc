@@ -1,6 +1,4 @@
-# Bootstruc
-
-## Frontend File Architecture
+# Bootstruc - Frontend File Architecture
 
 Generate the front-end folder structure for your project with this simple script. This includes a variant of the 7-1 style folder layout for Sass files as well as assets and scripts. Automatically generated are a webpack config file as well as some plugin files. Remove or replace certain files as you see fit. 
 
