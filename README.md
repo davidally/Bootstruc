@@ -5,6 +5,8 @@ Generate the front-end folder structure for your project with this simple script
 Read more about the [7-1 Pattern](https://sass-guidelin.es/#the-7-1-pattern) here.
 
 ----------
+
+&nbsp;
 ## Use
 In the command line:
 ```
